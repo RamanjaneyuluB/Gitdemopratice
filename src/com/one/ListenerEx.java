@@ -16,7 +16,8 @@ public class ListenerEx implements ITestListener {
 	
 	@Override		
     public void onFinish(ITestContext arg0) {					
-        // TODO Auto-generated method stub				
+        // TODO Auto-generated method stub	
+		System.out.println("Ram");
         		
     }		
 
