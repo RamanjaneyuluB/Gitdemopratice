@@ -7,6 +7,7 @@ public class Demo {
 	@Test
 	public void m1() {
 		System.out.println("Ram");
+		System.out.println("Ishan");
 	}
 	
 	@Test
